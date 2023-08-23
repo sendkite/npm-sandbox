@@ -1,5 +1,6 @@
 {
+  "type": "module",
   "dependencies": {
-    "sendkite-calculator": "^0.0.1"
+    "sendkite-calculator": "^0.0.2"
   }
 }
